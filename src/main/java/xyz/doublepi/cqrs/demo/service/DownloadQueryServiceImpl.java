@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.huawei.ccn.cloudservice.demo.service;
+package xyz.doublepi.cqrs.demo.service;
 
-import com.huawei.ccn.cloudservice.demo.entity.Download;
+import xyz.doublepi.cqrs.demo.entity.Download;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.huawei.ccn.cloudservice.demo.repository.DownloadQueryRepository;
+import xyz.doublepi.cqrs.demo.repository.DownloadQueryRepository;
 import java.util.Optional;
 
 /**

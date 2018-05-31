@@ -1,10 +1,10 @@
-package com.huawei.ccn.cloudservice.demo.controller;
+package xyz.doublepi.cqrs.demo.controller;
 
-import com.huawei.ccn.cloudservice.demo.entity.Download;
+import xyz.doublepi.cqrs.demo.entity.Download;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import com.huawei.ccn.cloudservice.demo.service.DownloadCommandService;
+import xyz.doublepi.cqrs.demo.service.DownloadCommandService;
 
 @RestController
 @RequestMapping("/api/v1")

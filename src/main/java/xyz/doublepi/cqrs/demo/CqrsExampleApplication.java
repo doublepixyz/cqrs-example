@@ -1,4 +1,4 @@
-package com.huawei.ccn.cloudservice.demo;
+package xyz.doublepi.cqrs.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

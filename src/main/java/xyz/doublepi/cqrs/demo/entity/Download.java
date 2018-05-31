@@ -1,4 +1,4 @@
-package com.huawei.ccn.cloudservice.demo.entity;
+package xyz.doublepi.cqrs.demo.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import javax.persistence.*;
